@@ -1,0 +1,24 @@
+<!--
+Create a website based on my experience in osrs Raids 3 focused on creating different links within
+a main hub with features such as:
+
+- A list of Killing mechanics with pictures that can be clicked to increase the tally maybe
+some sort of graph to compare death locations. 
+
+-A Tally of total deaths including how much money it has cost me to die 
+
+-Amount of clears on a day with percentage comparing it to fails include resets
+
+-clearing percent based on raid level?
+
+-a list of drops that i recieved (purples) and what raid level they were got on? maybe a table with
+pictures
+
+                                    (Advanced)
+- create a section that can be cycled through during the raid with info charts based on the 
+current room, fails percentages mech fails, time taken?, deaths, fail percentage have the cycle
+be reacting to what is coming from runelite and automattically switch to the correct part of the
+website. if that is too hard have a hotkey that cycles to the next area based on a run.(tell the 
+program before hand what order the bosses will be done in and then have them ordered and cycled
+through)
+-->
